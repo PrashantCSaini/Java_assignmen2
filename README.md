@@ -1,7 +1,7 @@
 # Java_assignmen2
 Quiz app
 
-![1](1.png)
+![1](Java_assignmen2/1.PNG)
 
 ![alt text](2.png)
 
